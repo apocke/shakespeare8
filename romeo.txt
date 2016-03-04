@@ -2,7 +2,7 @@ Romeo and Juliet
 
 In fair Verona where we lay our scene
 
-SOME DUDE: I bite my thumb at you, sir.
+SOME DUDE: I bite my thumb at you, sir. *bites thumb*
 
 JUliet: Ay, ME!!!
 
@@ -12,4 +12,4 @@ Juliet: Wherefor art thou, Romeo?
 
 POMEO: Oh look, poison.
 
-THE END
+THE END!
